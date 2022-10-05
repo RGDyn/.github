@@ -1,7 +1,5 @@
 # RoGDyn toolbox
 
-<!--
-
 The **Ro**ck **G**lacier **Dy**namics toolbox aims to develop, collect and distribute standard scripts and functions that enable the community studying mountain permafrost, in particular rock glaciers, to process data efficiently and effectively.
 
 ## Project philosophy
@@ -18,4 +16,3 @@ If you want to be part of this project, please contact the mainteines listed bel
 
 ### Members (alphabetical order)
 Please join-us!!
--->
