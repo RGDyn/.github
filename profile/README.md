@@ -8,13 +8,13 @@ This project is based on an **open-source** philosophy in which all interested p
 ## Contribution guidelines
 If you want to be part of this project, please contact the mainteines listed below.
 
-## Team
+## Team (alphabetical order)
 
-### Main manteiners (alphabetical order)
+### Main manteiners
 * Cusicanqui, Diego | CNRS-ISTerre, Univ. Grenoble Alpes | email: [diego.cusicanqui@univ-grenoble-alpes.fr](mailto:diego.cusicanqui@univ-grenoble-alpes.fr).
 * Duvanel, Thibaut | CNRS-EDyTEM, Univ. Savoie Mont-Blanc | email: [thibaut.duvanel@univ-savoie.fr](mailto:thibaut.duvanel@univ-savoie.fr).
 
-### Members (alphabetical order)
+### Members
 * Bodin, Xavier | CNRS-EDyTEM, Univ. Savoie Mont-Blanc | email: [xavier.bodin@univ-savoie.fr](mailto:xavier.bodin@univ-savoie.fr).
 
 **Please join-us!!**
