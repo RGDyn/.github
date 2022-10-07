@@ -2,14 +2,14 @@
 
 The **R**ock **G**lacier **Dy**namics toolbox aims to develop, collect and distribute standard scripts and functions that enable the community studying mountain permafrost, in particular rock glaciers, to process data efficiently and effectively.
 
-## Project philosophy
-This project is based on an **open-source philosophy** in which all interested people can make contributions and/or proposals to support the rock glacier  comunity.
-
-**Please join-us!!**
+This project is based on an **open-source philosophy** in which all interested people can make contributions and/or proposals to support the rock glacier  comunity . . . **Please join-us!!**
 
 ## Contribution guidelines
-This project has started few months ago, so there is still alot of thigs to do. More precise contribution guidelines will be explain later.
-At the moment, if you want to be part of this project, please contact the mainteines listed below.
+As this project has started few months ago, so there is still a lot of thigs to do :). 
+More precise contribution guidelines will be explain later. However, if you want to be part of this project, please contact the mainteines listed below.
+
+## Main features
+* Automatic feature tracking processing chain.
 
 ## Team (alphabetical order)
 
