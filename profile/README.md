@@ -1,15 +1,15 @@
 # RGDyn toolbox
 
-The ***R**ock **G**lacier **Dy**namics* toolbox is an collaborative open-source project which aims to develop, collect and distribute scripts and functions that enable the community studying mountain permafrost, in particular rock glaciers, to process data efficiently and effectively in a standard way.
+The ***R**ock **G**lacier **Dy**namics* toolbox is an collaborative open-source project which aims to develop, collect and distribute scripts and functions that enable the community studying mountain permafrost, in particular rock glaciers, to process data efficiently and effectively in a standard and transparent way.
 
 This project is based in an **open-source philosophy** in which all interested people can make contributions and/or proposals to support the rock glacier  comunity . . . **Please join-us!!**
 
 ## Contribution guidelines
-As this project has started in early 2022,, so there is a still a lot of thigs to do :) notably on contribution roles. 
-However, if you want to be part of this project, please contact the mainteines listed below.
-More precise contribution guidelines will be explain later.
+As this project has started in early 2022, so there is a still a lot of thigs to do :) notably on contribution roles. 
+However, if you want to be part of this project, please contact the maintainers listed below.
+More precise contribution guidelines will be upload in teh future.
 
-## Main features
+## Main features (last update: 01-Nov-2022)
 * Automatic feature tracking processing chain.
 
 ## Team (alphabetical order)
