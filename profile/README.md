@@ -16,7 +16,7 @@ More precise contribution guidelines will be upload in teh future.
 
 ### Main manteiners
 * Cusicanqui, Diego | CNRS-ISTerre | Univ. Grenoble Alpes | email: [diego.cusicanqui@univ-grenoble-alpes.fr](mailto:diego.cusicanqui@univ-grenoble-alpes.fr).
-* Duvanel, Thibaut | CNRS-EDyTEM | Univ. Savoie Mont-Blanc | email: [thibaut.duvanel@univ-savoie.fr](mailto:thibaut.duvanel@univ-savoie.fr).
+* Duvanel, Thibaut  | UNIL-IDYST   | Univ. Lausanne       | email: [thibaut.duvanel@unil.ch](mailto:thibaut.duvanel@unil.ch).
 
 ### Members
 * Bodin, Xavier | CNRS-EDyTEM | Univ. Savoie Mont-Blanc | email: [xavier.bodin@univ-savoie.fr](mailto:xavier.bodin@univ-savoie.fr).
